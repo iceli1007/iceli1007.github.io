@@ -44,7 +44,7 @@ Ph.D. student with Prof. Bin Li.
 Undergraduate in Artificial Intelligence Class
 
 # Service
-
+---
 **Conference Program Committee (PC) Member**
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2023, 2024
 * International Conference on Computer Vision (ICCV): 2023
