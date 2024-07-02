@@ -23,8 +23,6 @@ My research interests mainly lie in **Artificial Intelligence Generated Content*
 > * 10/2022, A Systematic Survey of Regularization and Normalization in GANs accepted to **ACM Computing Surveys (CSUR)** and the repository is online. [Github](https://github.com/iceli1007/GANs-Regularization-Review)
 > * 07/2022, One paper accepted to **IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)**.
 > * 07/2022, One paper accepted to **ECCV 2022**.
-> * 04/2022, One paper accepted to **Long Oral, IJCAI 2022**.
-> * 03/2022, One paper accepted to **IEEE Transactions on Dependable and Secure Computing. (IEEE TDSC)**.
 
 # Awards
 
