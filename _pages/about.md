@@ -16,6 +16,7 @@ My research interests mainly lie in **Artificial Intelligence Generated Content*
 
 # <font color=red>News</font>
 
+> * 07/2024, One paper accepted to **ECCV 2024**.
 > * 01/2024, One paper accepted to **ICLR 2024**.
 > * 09/2023, One paper accepted to **NeurIPS 2023**.
 > * 12/2022, One paper accepted to **ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)**.
