@@ -7,6 +7,6 @@ author_profile: true
 
 
 # Contact
-Department of Electronic Engineering and Information Science, University of Science and Technology of China.<br>
-Address: 304, Electronic Building 2, West Campus, USTC, He Fei, An Hui, China. <br>
-Email: iceli@mail.ustc.edu.cn, iceli10061107@gmail.com
+School of Computer Science, University of Science and Technology of China.<br>
+Address: 1405, Linjiang Tower, Nanjing University of Information Science and Technology, Nanjing, Jiangsu, China. <br>
+Email: iceli@mail.ustc.edu.cn, iceli@nuist.edu.cn, iceli10061107@gmail.com
