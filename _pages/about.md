@@ -32,7 +32,7 @@ My research interests mainly lie in **Artificial Intelligence Generated Content*
 
 # Experience
 
-* Lecturer of **School of Computer Science, Nanjing University of Information Science and Technology**. 2024.07-
+* Lecturer of **School of Computer Science, Nanjing University of Information Science and Technology**. 2024.07-.
 * Research Intern of **Initi AI (An AIGC startup)**. 2023.04-2024.02.
 Under the supervision of Dr. [Chaoyue Wang](https://wang-chaoyue.github.io/) 
 * Research Intern of **JD Explore**. 2021.08-2023.03.
