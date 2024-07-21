@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student in the [Department of Electronic Engineering and Information Science](https://eeis.ustc.edu.cn/) at [University of Science and Technology of China](https://ustc.edu.cn/), under the supervision of professor [Bin Li](http://staff.ustc.edu.cn/~binli/). I received my Bachelor's degree from [University of Science and Technology of China](https://ustc.edu.cn/) in 2019.
+I am currently a lecturer in the team of [Zhangjie Fu](https://faculty.nuist.edu.cn/zhangjiefu/zh_CN/index.htm), [School of Computer Science](https://scs.nuist.edu.cn/main.htm), [Nanjing University of Information Science and Technology](https://www.nuist.edu.cn/main.htm). I received my Ph.D. degree from the [Department of Electronic Engineering and Information Science](https://eeis.ustc.edu.cn/) at [University of Science and Technology of China](https://ustc.edu.cn/), under the supervision of professor [Bin Li](http://staff.ustc.edu.cn/~binli/) in 2024. I received my Bachelor's degree from [University of Science and Technology of China](https://ustc.edu.cn/) in 2019.
 
 # Research
 
@@ -32,6 +32,7 @@ My research interests mainly lie in **Artificial Intelligence Generated Content*
 
 # Experience
 
+* Lecturer of **School of Computer Science, Nanjing University of Information Science and Technology**. 2024.07-
 * Research Intern of **Initi AI (An AIGC startup)**. 2023.04-2024.02.
 Under the supervision of Dr. [Chaoyue Wang](https://wang-chaoyue.github.io/) 
 * Research Intern of **JD Explore**. 2021.08-2023.03.
