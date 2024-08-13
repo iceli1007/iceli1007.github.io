@@ -55,7 +55,7 @@ Undergraduate in Artificial Intelligence Class
 * Asian Conference On Computer Vision (ACCV): 2024
 * ACM Multimedia (ACM MM): 2023, 2024
 * Neural Information Processing Systems (NeurIPS): 2023, 2024
-* AAAI Conference on Artificial Intelligence (AAAI): 2022
+* AAAI Conference on Artificial Intelligence (AAAI): 2022, 2025
 
 **Journal Reviewer**
 * IEEE Transactions on Information Forensics & Security (IEEE TIFS)
