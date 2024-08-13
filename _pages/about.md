@@ -54,6 +54,7 @@ Undergraduate in Artificial Intelligence Class
 * European Conference on Computer Vision (ECCV): 2022, 2024
 * Asian Conference On Computer Vision (ACCV): 2024
 * ACM Multimedia (ACM MM): 2023, 2024
+* International Conference on Learning Representations (ICLR): 2025
 * Neural Information Processing Systems (NeurIPS): 2023, 2024
 * AAAI Conference on Artificial Intelligence (AAAI): 2022, 2025
 
