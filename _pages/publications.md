@@ -8,6 +8,9 @@ author_profile: true
 
 ## 2024
 
+* <b>A Proxy Attack-Free Strategy for Practically Improving the Poisoning Efficiency in Backdoor Attacks</b>. <br>
+<b>Ziqiang Li </b>, Hong Sun, Pengfei Xia, Beihao Xia, Xue Rui, Wei Zhang, Qinglang Guo, Zhangjie Fu, Bin Li. <i>ICLR, 2024</i>. <br>
+[[PDF]](https://arxiv.org/abs/2306.08313)
 
 * <b>Efficient Backdoor Attacks for Deep Neural Networks in Real-world Scenarios</b>. <br>
 <b>Ziqiang Li* </b>, Hong Sun*, Pengfei Xia, Heng Li, Beihao Xia, Yi Wu, Bin Li. <i>ICLR, 2024</i>. <br>
