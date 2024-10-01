@@ -16,6 +16,7 @@ My research interests mainly lie in **Artificial Intelligence Generated Content*
 
 # <font color=red>News</font>
 
+> * 10/2024, One paper accepted to **International Journal of Computer Vision (IJCV)**.
 > * 09/2024, One paper accepted to **IEEE Transactions on Information Forensics and Security (IEEE TIFS)**.
 > * 07/2024, One paper accepted to **ECCV 2024**.
 > * 01/2024, One paper accepted to **ICLR 2024**.
