@@ -8,9 +8,16 @@ author_profile: true
 
 ## 2024
 
+* <b>One-shot Generative Domain Adaptation in 3D GANs</b>. <br>
+<b>Ziqiang Li* </b>, Yi Wu*, Chaoyue Wang, Xue Rui, Bin Li. <i>International Journal of Computer Vision, 2024</i>. <br>
+
 * <b>A Proxy Attack-Free Strategy for Practically Improving the Poisoning Efficiency in Backdoor Attacks</b>. <br>
 <b>Ziqiang Li </b>, Hong Sun, Pengfei Xia, Beihao Xia, Xue Rui, Wei Zhang, Qinglang Guo, Zhangjie Fu, Bin Li. <i>IEEE Transactions on Information Forensics and Security, 2024</i>. <br>
 [[PDF]](https://arxiv.org/abs/2306.08313)
+
+* <b>Infinite-ID: Identity-preserved Personalization via ID-semantics Decoupling Paradigm</b>. <br>
+Yi Wu*, <b>Ziqiang Li*</b>, Heliang Zheng, Chaoyue Wang, Bin Li. <i>ECCV, 2024</i>. <br>
+[[PDF]](https://arxiv.org/abs/2403.11781)
 
 * <b>Efficient Backdoor Attacks for Deep Neural Networks in Real-world Scenarios</b>. <br>
 <b>Ziqiang Li* </b>, Hong Sun*, Pengfei Xia, Heng Li, Beihao Xia, Yi Wu, Bin Li. <i>ICLR, 2024</i>. <br>
