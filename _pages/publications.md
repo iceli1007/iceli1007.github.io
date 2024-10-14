@@ -14,7 +14,7 @@ author_profile: true
 
 * <b>One-shot Generative Domain Adaptation in 3D GANs</b>. <br>
 <b>Ziqiang Li* </b>, Yi Wu*, Chaoyue Wang, Xue Rui, Bin Li. <i>International Journal of Computer Vision, 2024</i>. <br>
-[[PDF]](https://arxiv.org/pdf/2410.08824v1)
+[[PDF]](https://arxiv.org/abs/2410.08824)
 
 * <b>A Proxy Attack-Free Strategy for Practically Improving the Poisoning Efficiency in Backdoor Attacks</b>. <br>
 <b>Ziqiang Li </b>, Hong Sun, Pengfei Xia, Beihao Xia, Xue Rui, Wei Zhang, Qinglang Guo, Zhangjie Fu, Bin Li. <i>IEEE Transactions on Information Forensics and Security, 2024</i>. <br>
