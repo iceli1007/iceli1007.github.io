@@ -62,9 +62,10 @@ Undergraduate in Artificial Intelligence Class
 * AAAI Conference on Artificial Intelligence (AAAI): 2022, 2025
 
 **Journal Reviewer**
-* IEEE Transactions on Information Forensics & Security (IEEE TIFS)
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
-* IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)
+* IEEE Transactions on Information Forensics & Security (IEEE TIFS)
 * IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)
+* IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
+* IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)
 * IEEE Transactions on Reliability (IEEE TR)
 * Pattern Recognition (PR)
