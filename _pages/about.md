@@ -52,7 +52,7 @@ Undergraduate in Artificial Intelligence Class
 # Service
 
 **Conference Program Committee (PC) Member**
-* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2023, 2024
+* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2023, 2024, 2025
 * International Conference on Computer Vision (ICCV): 2023
 * European Conference on Computer Vision (ECCV): 2022, 2024
 * Asian Conference On Computer Vision (ACCV): 2024
@@ -60,6 +60,7 @@ Undergraduate in Artificial Intelligence Class
 * International Conference on Learning Representations (ICLR): 2025
 * Neural Information Processing Systems (NeurIPS): 2023, 2024
 * AAAI Conference on Artificial Intelligence (AAAI): 2022, 2025
+* International Joint Conference on Artificial Intelligence (IJCAI): 2025
 
 **Journal Reviewer**
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
