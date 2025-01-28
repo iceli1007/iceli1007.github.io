@@ -50,7 +50,7 @@ Yi Wu, **Ziqiang Li** (Equal Contribution), Heliang Zheng, Chaoyue Wang, Bin Li.
 
 **Ziqiang Li**, Chaoyue Wang, Xue Rui, Chao Xue, Jiaxu Leng, ZhangJie Fu, Bin Li
 
-- A novel pipeline for few-shot image generation, combining a target few-shot dataset with a peer dataset to create a data-unbalanced conditional generation.
+- A novel pipeline for few-shot image generation.
 </div>
 </div>
 
