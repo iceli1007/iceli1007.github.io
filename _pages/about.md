@@ -49,6 +49,7 @@ My research interests mainly lie in **Artificial Intelligence Generated Content*
 - *2023.12* Best Student Paper Award of BigDIA 2023. 
 - *2019.4* National Encouragement Scholarship. USTC.
 - *2018.12* Bronze Award of the Excellent Student Scholarship. USTC.
+
 # 📖 Educations
 - *2019.09 - 2024.06*, Ph.D. student, Department of Electronic Engineering and Information Science, University of Science and Technology of China.
 - *2015.09 - 2019.06*, Bachelor, Department of Electronic Science and Technology, University of Science and Technology of China.
