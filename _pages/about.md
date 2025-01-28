@@ -36,13 +36,23 @@ My research interests mainly lie in **Artificial Intelligence Generated Content*
 
 [Infinite-ID: Identity-preserved Personalization via ID-semantics Decoupling Paradigm](https://link.springer.com/chapter/10.1007/978-3-031-73242-3_16)
 
-Yi Wu, **Ziqiang Li(Equal Contribution)**, Heliang Zheng, Chaoyue Wang, Bin Li.
+Yi Wu, **Ziqiang Li** (Equal Contribution), Heliang Zheng, Chaoyue Wang, Bin Li.
 
 [**Project**](https://infinite-id.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - An ID-semantics decoupling paradigm for tuning-free identity-preserved personalization. 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/PIP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Peer is Your Pillar: A Data-unbalanced Conditional GANs for Few-shot Image Generation](https://ieeexplore.ieee.org/abstract/document/10731854)
+
+**Ziqiang Li**, Chaoyue Wang, Xue Rui, Chao Xue, Jiaxu Leng, ZhangJie Fu, Bin Li
+
+- A novel pipeline for few-shot image generation, combining a target few-shot dataset with a peer dataset to create a data-unbalanced conditional generation.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2023.12* Best Student Paper Award of BigDIA 2023. 
