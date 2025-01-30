@@ -95,8 +95,19 @@ Yi Wu, **Ziqiang Li** (Equal Contribution), Heliang Zheng, Chaoyue Wang, Bin Li.
 
 **Ziqiang Li** (Equal Contribution), Hong Sun, Pengfei Xia, Heng Li, Beihao Xia, Yi Wu, Bin Li.
 
-- Introducing a realistic attack scenario where victims collect data from
+- Introducing a realistic backdoor attack scenario where victims collect data from
 multiple sources, and attackers cannot access the complete training data. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/DoRM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Domain Re-Modulation for Few-Shot Generative Domain Adaptation](https://openreview.net/pdf?id=jown9RvYn7)
+
+Yi Wu, **Ziqiang Li** (Equal Contribution), Chaoyue Wang, Heliang Zheng, Shanshan Zhao, Bin Li, and Dacheng Tao.
+
+- Not only fulfills three essential properties of few-shot GDA but also introduces two new capabilities: Memory and Domain Association.
 </div>
 </div>
 
