@@ -88,6 +88,18 @@ Yi Wu, **Ziqiang Li** (Equal Contribution), Heliang Zheng, Chaoyue Wang, Bin Li.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/data-const.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Efficient Backdoor Attacks for Deep Neural Networks in Real-world Scenarios](https://openreview.net/pdf?id=vRyp2dhEQp)
+
+**Ziqiang Li** (Equal Contribution), Hong Sun, Pengfei Xia, Heng Li, Beihao Xia, Yi Wu, Bin Li.
+
+- Introducing a realistic attack scenario where victims collect data from
+multiple sources, and attackers cannot access the complete training data. 
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2023.12* Best Student Paper Award of BigDIA 2023. 
 - *2019.4* National Encouragement Scholarship. USTC.
