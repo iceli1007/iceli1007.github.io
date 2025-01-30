@@ -73,7 +73,18 @@ Yi Wu, **Ziqiang Li** (Equal Contribution), Heliang Zheng, Chaoyue Wang, Bin Li.
 
 **Ziqiang Li**, Hong Sun, Pengfei Xia, Beihao Xia, Xue Rui, Wei Zhang, Qinglang Guo, Zhangjie Fu, Bin Li.
 
-- A Proxy attack-Free Strategy (PFS) designed to identify efficient poisoning samples based on the similarity between clean samples and their corresponding poisoning samples, as well as the diversity of the poisoning set.
+- A Proxy attack-Free Strategy (PFS) designed to identify efficient poisoning samples based on the similarity between clean samples and their corresponding poisoning samples.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/LLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Large Language Models are Good Attackers: Efficient and Stealthy Textual Backdoor Attacks](https://arxiv.org/pdf/2408.11587)
+
+**Ziqiang Li**, Yueqi Zeng, Pengfei Xia, Lei Liu, Zhangjie Fu, Bin Li.
+
+- Leveraging Large Language Models (LLMs) to acquire Efficient and Stealthy Textual backdoor attack method.
 </div>
 </div>
 
