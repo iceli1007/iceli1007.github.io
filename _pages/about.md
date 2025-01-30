@@ -116,9 +116,20 @@ Yi Wu, **Ziqiang Li** (Equal Contribution), Chaoyue Wang, Heliang Zheng, Shansha
 
 [A Systematic Survey of Regularization and Normalization in GANs](https://dl.acm.org/doi/10.1145/3569928)
 
-**Ziqiang Li**, Muhammad Usman, Rentuo Tao, Pengfei Xia, Chaoyue Wang, Huanhuan Chen, and Bin Li..
+**Ziqiang Li**, Muhammad Usman, Rentuo Tao, Pengfei Xia, Chaoyue Wang, Huanhuan Chen, and Bin Li.
 
 - Conducting a comprehensive survey on the regularization and normalization techniques from different perspectives of GANs training.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOMM 2023</div><img src='images/HFC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring The Effect of High-frequency Components in GANs Training](https://dl.acm.org/doi/abs/10.1145/3578585)
+
+**Ziqiang Li**, Pengfei Xia, Xue Rui, and Bin Li.
+
+- Proposing two simple yet effective frequency operations for eliminating the side effects caused by high-frequency differences in GANs training.
 </div>
 </div>
 
