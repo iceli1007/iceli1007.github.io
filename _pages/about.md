@@ -111,6 +111,17 @@ Yi Wu, **Ziqiang Li** (Equal Contribution), Chaoyue Wang, Heliang Zheng, Shansha
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSUR 2023</div><img src='images/CSUR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Systematic Survey of Regularization and Normalization in GANs](https://dl.acm.org/doi/10.1145/3569928)
+
+**Ziqiang Li**, Muhammad Usman, Rentuo Tao, Pengfei Xia, Chaoyue Wang, Huanhuan Chen, and Bin Li..
+
+- Conducting a comprehensive survey on the regularization and normalization techniques from different perspectives of GANs training.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2023.12* Best Student Paper Award of BigDIA 2023. 
 - *2019.4* National Encouragement Scholarship. USTC.
