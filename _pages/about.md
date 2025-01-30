@@ -31,6 +31,7 @@ My research interests mainly lie in **Artificial Intelligence Generated Content*
 
 # 📝 Publications 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/decouping.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,7 +51,18 @@ Yi Wu, **Ziqiang Li** (Equal Contribution), Heliang Zheng, Chaoyue Wang, Bin Li.
 
 **Ziqiang Li**, Chaoyue Wang, Xue Rui, Chao Xue, Jiaxu Leng, ZhangJie Fu, Bin Li
 
-- A novel pipeline for few-shot image generation.
+- A novel pipeline called Peer is your Pillar (PIP), which combines a target few-shot dataset with a peer dataset to enable data-unbalanced conditional generation.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='images/one-shot-GDA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[One-Shot Generative Domain Adaptation in 3D GANs](https://link.springer.com/article/10.1007/s11263-024-02268-4)
+
+**Ziqiang Li** (Equal Contribution), Yi Wu, Chaoyue Wang, Xue Rui, Bin Li.
+
+- Introducing a novel task, One-shot 3D Generative Domain Adaptation (GDA), which focuses on transferring a pre-trained 3D generator from one domain to a new one using only a single reference image.
 </div>
 </div>
 
