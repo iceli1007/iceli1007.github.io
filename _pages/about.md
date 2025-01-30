@@ -133,6 +133,17 @@ Yi Wu, **Ziqiang Li** (Equal Contribution), Chaoyue Wang, Heliang Zheng, Shansha
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI 2023</div><img src='images/DAT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A New Perspective on Stabilizing GANs Training: Direct Adversarial Training](https://ieeexplore.ieee.org/document/9851855)
+
+**Ziqiang Li**, Pengfei Xia, Rentuo Tao, Hongjing Niu, and Bin Li.
+
+- Images produced by the generator act like adversarial examples of the discriminator during the training process, which may be part of the reason causing the unstable training of GANs.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2023.12* Best Student Paper Award of BigDIA 2023. 
 - *2019.4* National Encouragement Scholarship. USTC.
