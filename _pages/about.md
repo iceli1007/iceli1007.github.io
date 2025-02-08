@@ -144,15 +144,10 @@ Yi Wu, **Ziqiang Li** (Equal Contribution), Chaoyue Wang, Heliang Zheng, Shansha
 </div>
 </div>
 
+- `TDSC 2022` [Enhancing Backdoor Attacks with Multi-Level MMD Regularization](https://ieeexplore.ieee.org/abstract/document/9743735), Pengfei Xia, Hongjing Niu, **Ziqiang Li**, and Bin Li. 
 
 
-**TDSC 2022** [Enhancing Backdoor Attacks with Multi-Level MMD Regularization](https://ieeexplore.ieee.org/abstract/document/9743735)
-
-Pengfei Xia, Hongjing Niu, **Ziqiang Li**, and Bin Li.
-
-**ECCV 2022** [Fakeclr: Exploring Contrastive Learning for Solving Latent Discontinuity in Data-efficient GANs](https://link.springer.com/chapter/10.1007/978-3-031-19784-0_35)
-
-**Ziqiang Li**, Chaoyue Wang, Heliang Zheng, Jing Zhang, Bin Li.
+- `ECCV 2022` [Fakeclr: Exploring Contrastive Learning for Solving Latent Discontinuity in Data-efficient GANs](https://link.springer.com/chapter/10.1007/978-3-031-19784-0_35), **Ziqiang Li**, Chaoyue Wang, Heliang Zheng, Jing Zhang, Bin Li.
 
 
 # 🎖 Honors and Awards
