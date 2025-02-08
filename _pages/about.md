@@ -144,8 +144,7 @@ Yi Wu, **Ziqiang Li** (Equal Contribution), Chaoyue Wang, Heliang Zheng, Shansha
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2023</div><img src='images/MMD.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
 
 [Enhancing Backdoor Attacks with Multi-Level MMD Regularization](https://ieeexplore.ieee.org/abstract/document/9743735)
 
