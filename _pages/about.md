@@ -23,6 +23,7 @@ My research interests mainly lie in **Artificial Intelligence Generated Content*
 
 
 # 🔥 News
+- *2025.7*: &nbsp;🎉🎉 Three paper accepted to **ACM Multimedia 2025**.
 - *2024.10*: &nbsp;🎉🎉 One paper accepted to **IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)**.
 - *2024.10*: &nbsp;🎉🎉 One paper accepted to **International Journal of Computer Vision (IJCV)**.
 - *2024.09*: &nbsp;🎉🎉 One paper accepted to **IEEE Transactions on Information Forensics and Security (IEEE TIFS)**.
