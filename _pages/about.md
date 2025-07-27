@@ -164,6 +164,6 @@ Yi Wu, **Ziqiang Li** (Equal Contribution), Chaoyue Wang, Heliang Zheng, Shansha
 
 # 💻 Experiences
 - *2025.07 - now*, Associate Professor of **School of Computer Science**, **Nanjing University of Information Science and Technology**.
-- *2024.07 - 2025.06, Lecturer of **School of Computer Science**, **Nanjing University of Information Science and Technology**.
+- *2024.07 - 2025.06*, Lecturer of **School of Computer Science**, **Nanjing University of Information Science and Technology**.
 - *2023.04 - 2024.02*, Research Intern of **Initi AI (An AIGC startup)**. Under the supervision of Dr. [Chaoyue Wang](https://wang-chaoyue.github.io/).
 - *2021.08 - 2023.03*, Research Intern of **JD Explore**. Under the supervision of Dr. [Chaoyue Wang](https://wang-chaoyue.github.io/).
