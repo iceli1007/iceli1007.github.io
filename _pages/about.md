@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a lecturer in the team of [Zhangjie Fu](https://faculty.nuist.edu.cn/zhangjiefu/zh_CN/index.htm), [School of Computer Science](https://scs.nuist.edu.cn/main.htm), [Nanjing University of Information Science and Technology](https://www.nuist.edu.cn/main.htm). I received my Ph.D. degree from the [Department of Electronic Engineering and Information Science](https://eeis.ustc.edu.cn/) at [University of Science and Technology of China](https://ustc.edu.cn/), under the supervision of professor [Bin Li](http://staff.ustc.edu.cn/~binli/) in 2024. I received my Bachelor’s degree from [University of Science and Technology of China](https://ustc.edu.cn/) in 2019.
+I am currently a Associate Professor in the team of [Zhangjie Fu](https://faculty.nuist.edu.cn/zhangjiefu/zh_CN/index.htm), [School of Computer Science](https://scs.nuist.edu.cn/main.htm), [Nanjing University of Information Science and Technology](https://www.nuist.edu.cn/main.htm). I received my Ph.D. degree from the [Department of Electronic Engineering and Information Science](https://eeis.ustc.edu.cn/) at [University of Science and Technology of China](https://ustc.edu.cn/), under the supervision of professor [Bin Li](http://staff.ustc.edu.cn/~binli/) in 2024. I received my Bachelor’s degree from [University of Science and Technology of China](https://ustc.edu.cn/) in 2019.
 
 My research interests mainly lie in **Artificial Intelligence Generated Content** and **AI Security**. My works focus on GANs, Diffusion, and backdoor learning of neural networks.
 
@@ -163,6 +163,7 @@ Yi Wu, **Ziqiang Li** (Equal Contribution), Chaoyue Wang, Heliang Zheng, Shansha
 # 💬 Invited Talks
 
 # 💻 Experiences
-- *2024.07 - now*, Lecturer of **School of Computer Science**, **Nanjing University of Information Science and Technology**.
+- *2025.07 - now*, Associate Professor of **School of Computer Science**, **Nanjing University of Information Science and Technology**.
+- *2024.07 - 2025.06, Lecturer of **School of Computer Science**, **Nanjing University of Information Science and Technology**.
 - *2023.04 - 2024.02*, Research Intern of **Initi AI (An AIGC startup)**. Under the supervision of Dr. [Chaoyue Wang](https://wang-chaoyue.github.io/).
 - *2021.08 - 2023.03*, Research Intern of **JD Explore**. Under the supervision of Dr. [Chaoyue Wang](https://wang-chaoyue.github.io/).
