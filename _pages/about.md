@@ -33,6 +33,16 @@ My research interests mainly lie in **Artificial Intelligence Generated Content*
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2025</div><img src='images/fus_plus.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Explore the Effect of Data Selection on Poison Efficiency in Backdoor Attacks](https://ieeexplore.ieee.org/abstract/document/11119781)
+
+**Ziqiang Li**, Pengfei Xia, Hong Sun, Yueqi Zeng, Wei Zhang, Bin Li
+
+- we investigate the role of forgettable event and loss landscape curvature in enhancing poisoning sample efficiency. Our findings reveal that samples most likely to be forgotten during the poisoning process are crucial for effective attacks, and that low-curvature regions of the loss surface correlate with higher poisoning efficiency.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/decouping.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
