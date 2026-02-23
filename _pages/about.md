@@ -23,6 +23,7 @@ My research interests mainly lie in **Artificial Intelligence Generated Content*
 
 
 # 🔥 News
+- *2026.2*: &nbsp;🎉🎉 Three paper accepted to **CVPR 2026**.
 - *2026.2*: &nbsp;🎉🎉 One paper accepted to **IEEE Transactions on Information Forensics and Security (IEEE TIFS)**.
 - *2025.12*: &nbsp;🎉🎉 One paper accepted to **Pattern Recognition (PR)**.
 - *2025.09*: &nbsp;🎉🎉 One paper accepted to **NeurIPS 2025**.
